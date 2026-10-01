@@ -1,0 +1,15 @@
+{
+  "id": "vazevedo5/football-laya-curve-eval",
+  "title": "football-laya-curve-eval",
+  "code_file": "curve_eval_only.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "vazevedo5/football-laya-curve",
+    "vazevedo5/football-laya-n2000"
+  ],
+  "kernel_sources": []
+}

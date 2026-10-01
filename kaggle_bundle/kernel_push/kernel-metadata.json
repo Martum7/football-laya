@@ -1,0 +1,14 @@
+{
+  "id": "vazevedo5/football-laya-curve-train",
+  "title": "football-laya-curve-train",
+  "code_file": "curve_kaggle.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": [
+    "vazevedo5/football-laya-curve"
+  ],
+  "kernel_sources": []
+}

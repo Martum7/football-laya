@@ -1,0 +1,23 @@
+# Segredos e ambiente local
+.env
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Dados (~21 GB): só ficam as métricas do piloto
+data/*
+!data/processed/
+data/processed/*
+!data/processed/curve_oldsplit/
+data/processed/curve_oldsplit/*
+!data/processed/curve_oldsplit/metrics*
+
+# Pesos, bundles e splits: estão nos datasets Kaggle vazevedo5/football-laya-*
+*.safetensors
+*.zip
+*.pt
+tokenizer.json
+kaggle_bundle/dataset/processed/
+# Modelo base de terceiros: convaiinnovations/laya-multilingual (Hugging Face)
+kaggle_bundle/dataset/models/

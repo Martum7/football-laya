@@ -1,0 +1,17 @@
+{
+  "n_cases": 2000,
+  "n_items": 140000,
+  "skipped": 0,
+  "order": "suffix",
+  "subset_from": "2023-04-02T13:00:00+00:00",
+  "subset_to": "2024-04-21T15:05:00+00:00",
+  "epochs": 2,
+  "batch": 32,
+  "accum": 1,
+  "eff_batch": 32,
+  "lr": 2e-05,
+  "wd": 0.01,
+  "seed": 42,
+  "base": "laya-multilingual-base",
+  "train_sha256": "c97513cb26dc8ebee34b5dc3e4965bdc179a83bf41edceed68e2e30bbecdca01"
+}

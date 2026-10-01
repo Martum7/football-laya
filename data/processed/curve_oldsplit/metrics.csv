@@ -1,0 +1,3 @@
+checkpoint,acc_raw,acc_noul_cal,nll_cal,brier_cal,ece_raw,ece_cal,ece_noul_cal,noul_conf_cal
+0,0.4134,0.4126,0.7982,0.2902,0.4341,0.1895,0.1969,0.6096
+100,0.6869,0.6994,0.5834,0.1924,0.0708,0.0085,0.0084,0.6952
